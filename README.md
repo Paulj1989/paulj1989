@@ -30,6 +30,6 @@ My skill set combines a formal education in statistics and quantitative methods 
 <a href="https://github.com/paulj1989/github-readme-stats">
   <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api?username=paulj1989-forks&bg_color=00000000&title_color=ff6e96&text_color=A5A5B6&hide_border=true&show_icons=false&count_private=true" />
 </a>
-<a href="https://github.com/github-readme-stats">
+<a href="https://github.com/paulj1989/github-readme-stats">
   <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api/top-langs/?username=Paulj1989-forks&bg_color=00000000&hide_border=true&title_color=ff6e96&text_color=A5A5B6&layout=compact" />
 </a>
